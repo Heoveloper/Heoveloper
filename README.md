@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/html-3DDC84?style=flat&logo=html&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/css-3DDC84?style=flat&logo=css&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/javascript-3DDC84?style=flat&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/java-3DDC84?style=flat&logo=java&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-6DB33F?style=flat&logo=java&logoColor=6DB33F"/>
 </p>
